@@ -19,10 +19,10 @@
   <a href="https://twitter.com/boc_dev">
     <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://itch.io/boc_dev">
+  <a href="https://boc-dev.itch.io/">
     <img src="https://img.shields.io/badge/itchio-%230077B5.svg?&style=for-the-badge&logo=itch.io&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://itch.io/boc_dev">
+  <a href="https://www.youtube.com/channel/UCVmjxCnecANeiA-qFCO5DaA">
     <img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://boringoldcomputering.code.blog/">
