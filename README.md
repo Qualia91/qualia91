@@ -57,15 +57,15 @@
 
 <p align='center'>
 
-<img src="https://img.shields.io/badge/Java-777BB4?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-00ADD8?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-00ADD8?logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot-00ADD8?logo=godot-engine&logoColor=white" />
 <img src="https://img.shields.io/badge/Gimp-00ADD8?logo=gimp&logoColor=white" />
-<img src="https://img.shields.io/badge/Haskell-4EAA25?logo=haskell&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Haskell-00ADD8?logo=haskell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-00ADD8?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C Sharp-00ADD8?logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00ADD8?logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00ADD8?logo=c&logoColor=white" />
 
 </p>
 
