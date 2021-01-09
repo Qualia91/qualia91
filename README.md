@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A professional aerospace software engineer, and part time game/engine developer.
+  I'm a professional aerospace software engineer, and part time game/engine developer.
 </p>
 
 <p align='center'>
@@ -25,6 +25,13 @@
   <a href="https://itch.io/boc_dev">
     <img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://boringoldcomputering.code.blog/">
+    <img src="https://img.shields.io/badge/Blog-%230077B5.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/developer?id=BOC+Development">
+    <img src="https://img.shields.io/badge/Google_Play-%230077B5?style=for-the-badge&logo=google-play&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
   
 </p>
 
@@ -50,16 +57,24 @@
 
 <p align='center'>
 
-<img align="right" src="https://img.shields.io/badge/Java-777BB4?logo=java&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Lua-00ADD8?logo=lua&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Godot-00ADD8?logo=godot-engine&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Gimp-00ADD8?logo=gimp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Haskell-4EAA25?logo=haskell&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-777BB4?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-00ADD8?logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-00ADD8?logo=godot-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/Gimp-00ADD8?logo=gimp&logoColor=white" />
+<img src="https://img.shields.io/badge/Haskell-4EAA25?logo=haskell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
 </p>
 
-  
+<h2 align='center'>
+  Lockdown Game Engine
+</h2>
+<p align='center'>
+  Try my open source java based game engine with lua scripting!
+</p>
+<p align='center' href="https://github.com/qualia91/lockdown_game_engine">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qualia91&repo=lockdown_game_engine"/a>
+</p>
