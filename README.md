@@ -76,5 +76,5 @@
   Try my open source java based game engine with lua scripting!
 </p>
 <p align='center' href="https://github.com/qualia91/lockdown_game_engine">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qualia91&repo=lockdown_game_engine"/a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qualia91&repo=lockdown_game_engine&theme=dark"/a>
 </p>
