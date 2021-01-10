@@ -73,6 +73,9 @@
   Lockdown Game Engine
 </h2>
 <p align='center'>
+  ![Build](https://github.com/qualia91/lockdown_game_engine/workflows/Lockdown%20Game%20Engine/badge.svg)
+</p>
+<p align='center'>
   Try my open source java based game engine with lua scripting!
 </p>
 <p align='center'>
