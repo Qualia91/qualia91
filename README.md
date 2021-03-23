@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  I'm a professional aerospace software engineer, and part time game/engine developer.
+  I'm a professional software engineer, and part time game/engine developer.
 </p>
 
 <p align='center'>
