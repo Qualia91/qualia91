@@ -58,6 +58,7 @@
 <p align='center'>
 
 <img src="https://img.shields.io/badge/Java-00ADD8?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-00ADD8?logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot-00ADD8?logo=godot-engine&logoColor=white" />
 <img src="https://img.shields.io/badge/Gimp-00ADD8?logo=gimp&logoColor=white" />
