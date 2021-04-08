@@ -37,7 +37,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=qualia91&show_icons=true&count_private=true&theme=dark" height="150"/a> 
-  <a href="#"><img src="https://github-readme-stats-qualia91.vercel.app/api/top-langs/?username=qualia91&layout=compact&count_private=true&theme=dark" height="150"/a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qualia91&layout=compact&count_private=true&theme=dark" height="150"/a>
 </p>
 
 <p align='center'>
