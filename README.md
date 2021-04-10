@@ -68,6 +68,7 @@
 <img src="https://img.shields.io/badge/C++-00ADD8?logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00ADD8?logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Android Studio-00ADD8?logo=Android%20Studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript-00ADD8?logo=javascript&logoColor=white" />
 
 </p>
 
