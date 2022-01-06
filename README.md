@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Gimp-00ADD8?logo=gimp&logoColor=white" />
 <img src="https://img.shields.io/badge/Haskell-00ADD8?logo=haskell&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-00ADD8?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C Sharp-00ADD8?logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-00ADD8?logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00ADD8?logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00ADD8?logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Clojure-00ADD8?logo=clojure&logoColor=white" />
