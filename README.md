@@ -59,7 +59,7 @@
 
 <img src="https://img.shields.io/badge/Java-00ADD8?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Erlang-00ADD8?logo=erlang&logoColor=white" />
-<img src="https://img.shields.io/badge/Elixir-00ADD8?logo=erlang&logoColor=white" />
+<img src="https://img.shields.io/badge/Elixir-00ADD8?logo=elixir&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-00ADD8?logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot-00ADD8?logo=godot-engine&logoColor=white" />
@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/C Sharp-00ADD8?logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00ADD8?logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00ADD8?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Clojure-00ADD8?logo=erlang&logoColor=white" />
+<img src="https://img.shields.io/badge/Clojure-00ADD8?logo=clojure&logoColor=white" />
 <img src="https://img.shields.io/badge/Android Studio-00ADD8?logo=Android%20Studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-00ADD8?logo=javascript&logoColor=white" />
 
