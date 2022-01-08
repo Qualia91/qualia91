@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/Erlang-00ADD8?logo=erlang&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-00ADD8?logo=elixir&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Open GL-00ADD8?logo=opengl&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-00ADD8?logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot-00ADD8?logo=godot-engine&logoColor=white" />
 <img src="https://img.shields.io/badge/Gimp-00ADD8?logo=gimp&logoColor=white" />
