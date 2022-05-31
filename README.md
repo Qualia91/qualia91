@@ -73,6 +73,7 @@
 <img src="https://img.shields.io/badge/Clojure-00ADD8?logo=clojure&logoColor=white" />
 <img src="https://img.shields.io/badge/Android Studio-00ADD8?logo=Android%20Studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-00ADD8?logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-00ADD8?logo=docker&logoColor=white" />
 
 </p>
 
