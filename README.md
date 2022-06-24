@@ -89,3 +89,16 @@
 <p align='center'>
   <a href="https://github.com/qualia91/lockdown_game_engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qualia91&repo=lockdown_game_engine&theme=dark"/a>
 </p>
+
+<h2 align='center'>
+  Turn Based Game Server
+</h2>
+<p align='center'>
+  <img src="https://github.com/Qualia91/game_server/workflows/Erlang CI/badge.svg">
+</p>
+<p align='center'>
+  An open source turn based game server written in erlang, using docker, with a client script available for godot game engine!
+</p>
+<p align='center'>
+  <a href="https://github.com/qualia91/game_server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qualia91&repo=game_server&theme=dark"/a>
+</p>
