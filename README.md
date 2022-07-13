@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Google_Play-%230077B5?style=for-the-badge&logo=google-play&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  
 </p>
 
 <p align='center'>
@@ -50,6 +49,10 @@
 <p align='center'>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=qualia91&color=blue"></a>
 </p>
+
+<h2 align='center'>
+  Skills
+</h2>
 
 <p align='center'>
 
